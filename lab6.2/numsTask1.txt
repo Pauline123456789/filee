@@ -1,0 +1,4 @@
+cat
+man
+superman
+polina
